@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @ghedina
-- 👀 I’m interested in web development,
-- 🌱 I’m currently learning web development  ...
-- 💞️ I’m working for Raeven Market Place ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ghedina/ghedina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in trying new things,
+- 🌱 I’m currently learning ...front-end  web development
+- 💞️ I’m currently looking to collaborate on ...projects that will develop me
+-  How to reach me ...my email on ghedinaibor@gmail.com
+  
